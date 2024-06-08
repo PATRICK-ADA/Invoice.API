@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Wxc6LRj3CeenVPBMk+Q8SvzjHK6944lmwEnesMT7BJ8gV8133b+bJ1WqJ+QVjlaNq0CZG614Pz0Jbybmo2Y5A==",
+  "dgSpecHash": "APD3wGxSak7eaDyI+2aSE/PyF7pCvaCVXbs3luWPSwpadEboKcRNQRdqIStu/pbaqVG8x0hQ3sJZCpo7KPWcaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\confluent.kafka\\2.4.0\\confluent.kafka.2.4.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

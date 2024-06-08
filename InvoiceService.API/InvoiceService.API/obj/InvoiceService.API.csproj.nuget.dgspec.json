@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj": {}
+    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj": {
+    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
         "projectName": "InvoiceService.API",
-        "projectPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

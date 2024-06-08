@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\kafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\services\\kafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\entities\\biddermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.domain\\entities\\biddermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\entities\\generateinvoicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\entities\\generateinvoicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.domain\\entities\\generateinvoicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\services\\kafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\services\\kafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\extensionservices\\extensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkapublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\entities\\biddermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.domain\\entities\\biddermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\abstraction\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\requestdto\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.domain\\requestdto\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.domain\\requestdto\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\apiresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\apiresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\apiresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkaconsumerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\invoice.api\\invoiceservice.api\\invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkaconsumerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B07290-DD57-4684-835F-79664F039D4B}|InvoiceService.API\\InvoiceService.API.csproj|solutionrelative:invoiceservice.api\\invoiceservice.core\\abstraction\\ikafkaconsumerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,23 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "GenerateInvoiceModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Domain\\Entities\\GenerateInvoiceModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T22:03:00.526Z"
+              "WhenOpened": "2024-06-06T22:03:00.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "InvoiceDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Domain\\RequestDto\\InvoiceDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\ApiResponse\\Response.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,24 +131,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BidderModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Domain\\Entities\\BidderModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:12:28.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:12:28.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Program.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Program.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "InvoiceController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Web\\Controllers\\InvoiceController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,37 +168,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IKafKaPublisherService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafKaPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:46:13.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:46:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "RelativeToolTip": "InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:24:36.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InvoiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
-              "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
-              "RelativeToolTip": "InvoiceService.API\\InvoiceService.Infrastructure\\Repositories\\InvoiceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:24:36.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "InvoiceService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Services\\InvoiceService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,50 +205,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "KafkaPublisherService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Services\\KafkaPublisherService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:13:32.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:13:32.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "KafkaConsumerService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Services\\KafkaConsumerService.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAHUAAAAIAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T15:02:23.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SeriLogDefinition.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\SeriLogDefinition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:01:10.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T15:01:10.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "IKafkaConsumerServices.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IKafkaConsumerServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IInvoiceService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "IInvoiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Core\\Abstraction\\IInvoiceRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,37 +278,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:52:31.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T14:52:31.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
               "RelativeToolTip": "InvoiceService.API\\InvoiceService.Web\\ExtensionServices\\Extensions\\ServiceExtensions.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAD4vzkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:50:42.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T14:50:42.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\appsettings.json",
               "RelativeDocumentMoniker": "InvoiceService.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\InvoiceService.API\\InvoiceService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Invoice.API\\InvoiceService.API\\InvoiceService.API\\appsettings.json",
               "RelativeToolTip": "InvoiceService.API\\appsettings.json",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
