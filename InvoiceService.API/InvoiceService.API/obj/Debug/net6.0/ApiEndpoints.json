@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "InvoiceService.API.NotificationService.Web.Controllers.InvoiceController",
+    "Method": "GetBidderInvoiceAsync",
+    "RelativePath": "api/Invoice/Get_Sent_Invoice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
