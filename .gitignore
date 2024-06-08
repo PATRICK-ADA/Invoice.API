@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InvoiceService.API
+/InvoiceService.API/.vs/InvoiceService.API/FileContentIndex
+/InvoiceService.API/.vs/InvoiceService.API/FileContentIndex/9ba54bc4-5305-4093-a23b-bac6234bedb2.vsidx
+/InvoiceService.API/.vs/InvoiceService.API/FileContentIndex/b7d7d97e-6d0e-4430-af9f-1b8905f77ed5.vsidx
+/InvoiceService.API/InvoiceService.API/obj/Debug/net6.0
+/InvoiceService.API/InvoiceService.API/obj/Debug/net6.0/InvoiceService.API.sourcelink.json
