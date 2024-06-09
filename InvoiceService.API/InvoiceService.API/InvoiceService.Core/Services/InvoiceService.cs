@@ -1,7 +1,5 @@
-﻿
-using InvoiceService.API.InvoiceService.Core.Abstraction;
+﻿using InvoiceService.API.InvoiceService.Core.Abstraction;
 using BidService.API.BidService.Core.ApiResponse;
-using InvoiceService.API.InvoiceService.Domain.RequestDto;
 
 namespace InvoiceService.Core.Services
 {
