@@ -2,7 +2,7 @@
   {
     "ContainingType": "InvoiceService.API.NotificationService.Web.Controllers.InvoiceController",
     "Method": "GetBidderInvoiceAsync",
-    "RelativePath": "api/Invoice/Get_Sent_Invoice",
+    "RelativePath": "api/Invoice/Retrieve-Highest_Bidder",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

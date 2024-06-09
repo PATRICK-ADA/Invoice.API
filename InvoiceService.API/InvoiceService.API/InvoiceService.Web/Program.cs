@@ -1,4 +1,7 @@
+using Extensions.NewSeriLog;
 using Invoice.API.Notification.Web.Extensions;
+
+
 public class Program
 {
     public static void Main(string[] args)
@@ -27,7 +30,7 @@ public class Program
 
         app.UseAuthorization();
         app.MapControllers();
-        app.UseSerilogMigrationSetUpInfo();
+        app.UseSerilogDbMigrationLogging();
 
         app.Run();
     }

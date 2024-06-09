@@ -9,6 +9,7 @@ using Serilog;
 
 namespace Invoice.API.Notification.Web.Extensions
 {
+   
     public static class ServiceRegistrations
     {
         public static IServiceCollection ConfigureKafka(this IServiceCollection services)
@@ -21,6 +22,7 @@ namespace Invoice.API.Notification.Web.Extensions
             return services;
 
         }
+
 
 
         public static WebApplicationBuilder AddSerilog(this WebApplicationBuilder builder)
@@ -37,17 +39,13 @@ namespace Invoice.API.Notification.Web.Extensions
 
         }
 
+        
+        
         public static IServiceCollection AppServices(this IServiceCollection services, IConfiguration configuration)
         {
            
-            
-            var config = new ConfigurationBuilder()
-            .AddJsonFile("appsettings.json", optional: false)
-            .Build();
             services.AddSingleton<IKafKaPublisherService, KafkaPublisherService>();
            
-
-
 
             services.AddAuthentication();
             services.AddAuthorization();
@@ -72,6 +70,7 @@ namespace Invoice.API.Notification.Web.Extensions
                     .WithMethods("GET", "PUT", "DELETE", "POST")
                     );
             });
+
             return services;
         }
 
@@ -94,6 +93,7 @@ namespace Invoice.API.Notification.Web.Extensions
                     });
 
                 });
+
             return services;
         }
     }
