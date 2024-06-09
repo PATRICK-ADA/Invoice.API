@@ -5,19 +5,35 @@ using RoomService.Infrastructure.Data;
 using Invoice.Infrastructure.Repositories;
 using Invoice.Core.Abstraction;
 using Invoice.API.KafkaConsumerService;
+using Serilog;
 
 namespace Invoice.API.Notification.Web.Extensions
 {
     public static class ServiceRegistrations
     {
-        public static void ConfigureKafka(this IServiceCollection services)
+        public static IServiceCollection ConfigureKafka(this IServiceCollection services)
         {
 
 
            services.AddHostedService<KafkaConsumerService.KafkaConsumerService>();
 
 
+            return services;
 
+        }
+
+
+        public static WebApplicationBuilder AddSerilog(this WebApplicationBuilder builder)
+        {
+            builder.Host.UseSerilog((context, config) =>
+            {
+                config.Enrich.FromLogContext()
+                    .WriteTo.Console()
+                    .ReadFrom.Configuration(context.Configuration);
+
+            });
+
+            return builder; 
 
         }
 
